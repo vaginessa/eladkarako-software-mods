@@ -20,4 +20,8 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="7z/"                ><img width="24" height="24" alt="" src="7z/resources/icon.gif"                />&nbsp;7z/</a><br/>
 <a href="Matrix_ks/"         ><img width="24" height="24" alt="" src="Matrix_ks/resources/icon.png"         />&nbsp;Matrix_ks/</a><br/>
 <a href="chromium/"          ><img width="24" height="24" alt="" src="chromium/resources/icon.png"          />&nbsp;chromium/</a><br/>
+<a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
 <a href="Orbitdownloader/"   ><img width="24" height="24" alt="" src="Orbitdownloader/resources/icon.png"   />&nbsp;Orbitdownloader/</a><br/>
+<a href="Notepad2.0/"        ><img width="24" height="24" alt="" src="Notepad2.0/resources/icon.png"        />&nbsp;Notepad2.0/</a><br/>
+<a href="Notepad++/"         ><img width="24" height="24" alt="" src="Notepad++/resources/icon.png"         />&nbsp;Notepad++/</a><br/>
+
