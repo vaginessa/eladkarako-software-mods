@@ -1,4 +1,4 @@
-<h1>Matrix_ks</h1>
+<h1><img src="resource/icon.png" />Matrix_ks</h1>
 To install it, copy the content of the folder to <code>%WinDir%</code>,<br/>
 (<code>c:\windows\</code>).<br/>
 There are some configurations that are available through the reg file,<br/>
