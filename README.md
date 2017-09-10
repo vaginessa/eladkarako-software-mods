@@ -21,6 +21,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Aria2/"             ><img width="24" height="24" alt="" src="Aria2/resources/icon.png"             />&nbsp;Aria2/</a><br/>
 <a href="Matrix_ks/"         ><img width="24" height="24" alt="" src="Matrix_ks/resources/icon.png"         />&nbsp;Matrix_ks/</a><br/>
 <a href="chromium/"          ><img width="24" height="24" alt="" src="chromium/resources/icon.png"          />&nbsp;chromium/</a><br/>
+<a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="FSCapture/"         ><img width="24" height="24" alt="" src="FSCapture/resources/icon.png"         />&nbsp;FSCapture/</a><br/>
 <a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
