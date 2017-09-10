@@ -30,3 +30,9 @@ the exe files are archived for safely reasons (no password), just extract them u
 the current manifest editing make sure locate32 is compatible with Windows (will run faster), and will enable better GDI+ rendering.
 
 in the resources folder there is the new/old icon, and a hebrew translation I've started (not finished), also the settings exporter (you don't need!) and some "registry fixes" that came with the original version that includes an additional/undocumented options to enhance locate32 (better not use any of those).
+
+You should probably block the following addresses in your HOSTS file:
+<pre>
+0.0.0.0 www.locate32.net
+0.0.0.0 locate32.net
+</pre>
