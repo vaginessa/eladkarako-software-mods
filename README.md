@@ -19,14 +19,19 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 
 <a href="7z/"                ><img width="24" height="24" alt="" src="7z/resources/icon.gif"                />&nbsp;7z/</a><br/>
 <a href="Aria2/"             ><img width="24" height="24" alt="" src="Aria2/resources/icon.png"             />&nbsp;Aria2/</a><br/>
+<a href="AWiconsPro/"        ><img width="24" height="24" alt="" src="AWiconsPro/resources/icon.png"        />&nbsp;AWiconsPro/</a><br/>
+<a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
 <a href="Matrix_ks/"         ><img width="24" height="24" alt="" src="Matrix_ks/resources/icon.png"         />&nbsp;Matrix_ks/</a><br/>
+<a href="NetLimiter/"        ><img width="24" height="24" alt="" src="NetLimiter/resources/icon.png"        />&nbsp;NetLimiter/</a><br/>
+<a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
 <a href="chromium/"          ><img width="24" height="24" alt="" src="chromium/resources/icon.png"          />&nbsp;chromium/</a><br/>
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="FSCapture/"         ><img width="24" height="24" alt="" src="FSCapture/resources/icon.png"         />&nbsp;FSCapture/</a><br/>
 <a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
 <a href="Orbitdownloader/"   ><img width="24" height="24" alt="" src="Orbitdownloader/resources/icon.png"   />&nbsp;Orbitdownloader/</a><br/>
-<a href="ThinkPadUtilities/" ><img width="24" height="24" alt="" src="ThinkPadUtilities/resources/icon.png" />&nbsp;IBM/Lenovo ThinkPad - Utilities/</a><br/>
 <a href="Notepad%202.0/"     ><img width="24" height="24" alt="" src="Notepad%202.0/resources/icon.png"     />&nbsp;Notepad2.0/</a><br/>
 <a href="Notepad++/"         ><img width="24" height="24" alt="" src="Notepad++/resources/icon.png"         />&nbsp;Notepad++/</a><br/>
+<a href="ThinkPadUtilities/" ><img width="24" height="24" alt="" src="ThinkPadUtilities/resources/icon.png" />&nbsp;IBM/Lenovo ThinkPad - Utilities/</a><br/>
+<a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
 
