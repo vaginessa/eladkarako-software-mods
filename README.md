@@ -35,5 +35,6 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Notepad%202.0/"     ><img width="24" height="24" alt="" src="Notepad%202.0/resources/icon.png"     />&nbsp;Notepad2.0/</a><br/>
 <a href="Notepad++/"         ><img width="24" height="24" alt="" src="Notepad++/resources/icon.png"         />&nbsp;Notepad++/</a><br/>
 <a href="ThinkPadUtilities/" ><img width="24" height="24" alt="" src="ThinkPadUtilities/resources/icon.png" />&nbsp;IBM/Lenovo ThinkPad - Utilities/</a><br/>
+<a href="WinDirState/"       ><img width="24" height="24" alt="" src="WinDirState/resources/icon.png"       />&nbsp;WinDirState/</a><br/>
 <a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
 
