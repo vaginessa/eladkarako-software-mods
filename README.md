@@ -29,6 +29,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="Fiddler/"           ><img width="24" height="24" alt="" src="Fiddler/resources/icon.png"           />&nbsp;Fiddler/</a><br/>
 <a href="FSCapture/"         ><img width="24" height="24" alt="" src="FSCapture/resources/icon.png"         />&nbsp;FSCapture/</a><br/>
+<a href="KatMouse/"          ><img width="24" height="24" alt="" src="KatMouse/resources/icon.png"          />&nbsp;KatMouse/</a><br/>
 <a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
 <a href="Orbitdownloader/"   ><img width="24" height="24" alt="" src="Orbitdownloader/resources/icon.png"   />&nbsp;Orbitdownloader/</a><br/>
 <a href="PaintNet4/"         ><img width="24" height="24" alt="" src="PaintNet4/resources/icon.png"         />&nbsp;PaintNet4/</a><br/>
