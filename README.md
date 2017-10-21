@@ -33,6 +33,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
 <a href="Orbitdownloader/"   ><img width="24" height="24" alt="" src="Orbitdownloader/resources/icon.png"   />&nbsp;Orbitdownloader/</a><br/>
 <a href="PaintNet4/"         ><img width="24" height="24" alt="" src="PaintNet4/resources/icon.png"         />&nbsp;PaintNet4/</a><br/>
+<a href="ProcessExplorer/"   ><img width="24" height="24" alt="" src="ProcessExplorer/resources/icon.png"   />&nbsp;ProcessExplorer/</a><br/>
 <a href="Notepad%202.0/"     ><img width="24" height="24" alt="" src="Notepad%202.0/resources/icon.png"     />&nbsp;Notepad2.0/</a><br/>
 <a href="Notepad++/"         ><img width="24" height="24" alt="" src="Notepad++/resources/icon.png"         />&nbsp;Notepad++/</a><br/>
 <a href="ThinkPadUtilities/" ><img width="24" height="24" alt="" src="ThinkPadUtilities/resources/icon.png" />&nbsp;IBM/Lenovo ThinkPad - Utilities/</a><br/>
