@@ -13,7 +13,7 @@ and the source-code is in here: <a href="https://github.com/eladkarako/JavaRa">h
 
 additional removing stuff from <a href="http://icompile.eladkarako.com/uninstall-java-javara-ccleaner-additional-reg-cleanup/">http://icompile.eladkarako.com/uninstall-java-javara-ccleaner-additional-reg-cleanup/</a>:
 
-```reg
+```registry
 Windows Registry Editor Version 5.00
 
 ;javacpl.exe
