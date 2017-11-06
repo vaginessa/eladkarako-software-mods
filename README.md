@@ -28,6 +28,8 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="Fiddler/"           ><img width="24" height="24" alt="" src="Fiddler/resources/icon.png"           />&nbsp;Fiddler/</a><br/>
+<a href="Foxit/"             ><img width="24" height="24" alt="" src="Foxit/resources/icon.png"             />&nbsp;Foxit/</a><br/>
+<a href="FreeRAMXPPro/"      ><img width="24" height="24" alt="" src="FreeRAMXPPro/resources/icon.png"      />&nbsp;FreeRAMXPPro/</a><br/>
 <a href="FSCapture/"         ><img width="24" height="24" alt="" src="FSCapture/resources/icon.png"         />&nbsp;FSCapture/</a><br/>
 <a href="JavaRa/"            ><img width="24" height="24" alt="" src="JavaRa/resources/icon.png"            />&nbsp;JavaRa/</a><br/>
 <a href="KatMouse/"          ><img width="24" height="24" alt="" src="KatMouse/resources/icon.png"          />&nbsp;KatMouse/</a><br/>
@@ -43,3 +45,5 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="WinDirState/"       ><img width="24" height="24" alt="" src="WinDirState/resources/icon.png"       />&nbsp;WinDirState/</a><br/>
 <a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
 
+
+<!-- <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation"></a> -->
