@@ -19,6 +19,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 
 <a href="7z/"                ><img width="24" height="24" alt="" src="7z/resources/icon.gif"                />&nbsp;7z/</a><br/>
 <a href="Aria2/"             ><img width="24" height="24" alt="" src="Aria2/resources/icon.png"             />&nbsp;Aria2/</a><br/>
+<a href="Audacity/"          ><img width="24" height="24" alt="" src="Audacity/resources/icon.png"          />&nbsp;Audacity/</a><br/>
 <a href="AWiconsPro/"        ><img width="24" height="24" alt="" src="AWiconsPro/resources/icon.png"        />&nbsp;AWiconsPro/</a><br/>
 <a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
 <a href="Matrix_ks/"         ><img width="24" height="24" alt="" src="Matrix_ks/resources/icon.png"         />&nbsp;Matrix_ks/</a><br/>
@@ -26,6 +27,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
 <a href="chromium/"          ><img width="24" height="24" alt="" src="chromium/resources/icon.png"          />&nbsp;chromium/</a><br/>
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
+<a href="CutePDF/"           ><img width="24" height="24" alt="" src="CutePDF/resources/icon.png"           />&nbsp;CutePDF/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="Fiddler/"           ><img width="24" height="24" alt="" src="Fiddler/resources/icon.png"           />&nbsp;Fiddler/</a><br/>
 <a href="Foxit/"             ><img width="24" height="24" alt="" src="Foxit/resources/icon.png"             />&nbsp;Foxit/</a><br/>

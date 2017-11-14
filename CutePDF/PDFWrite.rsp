@@ -1,0 +1,9 @@
+-sDEVICE=pdfwrite
+-q
+-dPDFSETTINGS=/prepress
+-dAutoRotatePages=/All
+-dCompatibilityLevel=1.4
+-dNOPAUSE
+-dBATCH
+-dMonoImageFilter=/FlateEncode
+-dEncodeMonoImages=true
