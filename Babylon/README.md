@@ -633,3 +633,87 @@ you better block all online access... you can use firewall or hosts file:
 0.0.0.0 wwwx.babylon-services.com
 0.0.0.0 wwwx.babylon-software.com
 </pre>
+
+<hr/>
+
+<pre>
+if you do need to uninstall babylon you would probably won't be able to do it fully,
+use "Rootkit detection utility" (nirsoft or Sysinternals) and search for babylon related keys.
+you can use those pin-point places to try and remove it as deep as you can:
+
+folders (also delete files, sub-folders and files within):
+----------------------------------------------------------------
+C:\Documents and Settings\Elad\Application Data\Babylon
+C:\Documents and Settings\All Users\Application Data\Babylon
+C:\Documents and Settings\All Users\Start Menu\Programs\Babylon
+C:\Documents and Settings\All Users\Start Menu\Programs\Games\Babylon Games
+C:\Documents and Settings\Elad\Local Settings\Application Data\Babylon
+C:\Program Files\Babylon
+
+keys (also delete values, sub-keys and values within):
+----------------------------------------------------------------
+HKEY_LOCAL_MACHINE\Software\Babylon
+HKEY_LOCAL_MACHINE\Software\Classes\.bdc
+HKEY_LOCAL_MACHINE\Software\Classes\.bgl
+HKEY_LOCAL_MACHINE\Software\Classes\.bof
+HKEY_LOCAL_MACHINE\Software\Classes\AppID\BabylonIEPI.DLL
+HKEY_LOCAL_MACHINE\Software\Classes\AppID\BDesktopAgent.DLL
+HKEY_LOCAL_MACHINE\Software\Classes\AppID\{2C5B8C82-32F5-4533-A47E-F5AE2EE0C7BE}
+HKEY_LOCAL_MACHINE\Software\Classes\AppID\{B16632F1-24E0-4D99-A68D-70BFB6447C48}
+HKEY_LOCAL_MACHINE\Software\Classes\Applications\Babylon.exe
+HKEY_LOCAL_MACHINE\Software\Classes\BabyDict
+HKEY_LOCAL_MACHINE\Software\Classes\BabyGloss
+HKEY_LOCAL_MACHINE\Software\Classes\BabylonIEPI.BabylonIEBho
+HKEY_LOCAL_MACHINE\Software\Classes\BabylonIEPI.BabylonIEBho.1
+HKEY_LOCAL_MACHINE\Software\Classes\BabylonOfficeAddin.OfficeAddin
+HKEY_LOCAL_MACHINE\Software\Classes\BabylonOfficeAddin.OfficeAddin.1
+HKEY_LOCAL_MACHINE\Software\Classes\BabyOptFile
+HKEY_LOCAL_MACHINE\Software\Classes\BDesktopAgent.BabConnector
+HKEY_LOCAL_MACHINE\Software\Classes\BDesktopAgent.BabConnector.1
+HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{6AC0BB10-C922-45e2-857D-2A368FE749E5}
+HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{9CFACCB6-2F3F-4177-94EA-0D2B72D384C1}
+HKEY_LOCAL_MACHINE\Software\Classes\CLSID\{C430996F-4AA8-4AA8-81DE-F54432CD5786}
+HKEY_LOCAL_MACHINE\Software\Classes\Interface\{51D08D15-EB6B-4582-9EA5-13FC1D31058C}
+HKEY_LOCAL_MACHINE\Software\Classes\Interface\{5F339F0B-716F-408F-A627-DEEB5DEB4020}
+HKEY_LOCAL_MACHINE\Software\Classes\Interface\{626FC520-A41E-11CF-A731-00A0C9082637}
+HKEY_LOCAL_MACHINE\Software\Classes\Interface\{B7EA2226-F876-4BE4-B478-76EBAE2A668A}
+
+HKEY_LOCAL_MACHINE\Software\Classes\MIME\Database\Content Type\application/bdc
+HKEY_LOCAL_MACHINE\Software\Classes\MIME\Database\Content Type\application/bgl
+HKEY_LOCAL_MACHINE\Software\Classes\MIME\Database\Content Type\application/bof
+HKEY_LOCAL_MACHINE\Software\Classes\Prod.cap
+HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{A1489C85-4F6F-48C4-AC9E-18B63AF4703E}
+HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{AD79BAD6-9504-4F09-ACEC-7B319584A4C1}
+HKEY_LOCAL_MACHINE\Software\Classes\TypeLib\{F310F027-15CB-4A7F-B10D-3A4AFB5013A5}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Extensions\{F72841F0-4EF1-4df5-BCE5-B3AC8ACF5478}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\Babylon.exe
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{9CFACCB6-2F3F-4177-94EA-0D2B72D384C1}
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\{72A8DB0F-C849-4E01-9DD7-8DC73761C2C3}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Babylon
+HKEY_CURRENT_USER\Software\Babylon
+HKEY_CURRENT_USER\Software\Binary Noise
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\MenuExt\Translate this web page with Babylon
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\MenuExt\Translate with Babylon
+HKEY_CURRENT_USER\Software\Microsoft\Office\PowerPoint\Addins\BabylonOfficeAddin.OfficeAddin
+HKEY_CURRENT_USER\Software\Microsoft\Office\Word\Addins\BabylonOfficeAddin.OfficeAddin
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{F72841F0-4EF1-4DF5-BCE5-B3AC8ACF5478}
+
+FF14D9EE-48EB-4873-80AC-8E224BEE5823
+5F339F0B-716F-408F-A627-DEEB5DEB4020
+F310F027-15CB-4A7F-B10D-3A4AFB5013A5
+
+
+-----------------------------------------------------------------------------------------
+
+-----------[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+Babylon Client
+
+
+-----------[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion]
+LicenseInfo
+
+-----------[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Extensions\CmdMapping]
+{F72841F0-4EF1-4df5-BCE5-B3AC8ACF5478}
+
+</pre>
