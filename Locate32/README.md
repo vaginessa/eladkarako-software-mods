@@ -1,6 +1,6 @@
 <h1><img src="resources/icon.png"/> Locate32-Portable</h1>
 
-A modified version of Locate32 v3.1 RC3l build 10.8220<br/>
+A modified version of Locate32 v3.1.11.7100 - 32bit<br/>
 
 
 with 'portable.reg' that makes locate32 run in semi-portable mode (settings are imported/exported each time the program starts/ends) + the old icon back for locate32.exe which is nicer + dependency update + fixed resource-24 embedded-manifest that will ensure that locate32: 1. will be supported on Windows 10 2. run without OS virtualization. 3. scale correctly text using dpiAware and PerMonitorV2. 4. increased quality and speed for GDI rendering and scaling. 5. making main thread more stable if printer driver crashes using printerDriverIsolation. + allow native theme and color control by Windows' themes. - needs some modification the first time you run it (remove my db definitions and create your own, probably check ON the checkbox for 'leave locate32 running in the background' in settings menu too, and clear all my recent searches)
@@ -33,6 +33,8 @@ in the resources folder there is the new/old icon, and a hebrew translation I've
 
 You should probably block the following addresses in your HOSTS file:
 <pre>
-0.0.0.0 www.locate32.net
+#-------------------------------------locate32
 0.0.0.0 locate32.net
+0.0.0.0 www.locate32.net
+0.0.0.0 locate32.cogit.net
 </pre>
