@@ -29,6 +29,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
 <a href="F.lux/"             ><img width="24" height="24" alt="" src="F.lux/resources/icon.png"             />&nbsp;F.lux/</a><br/>
 <a href="CutePDF/"           ><img width="24" height="24" alt="" src="CutePDF/resources/icon.png"           />&nbsp;CutePDF/</a><br/>
+<a href="DOSBox/"            ><img width="24" height="24" alt="" src="DOSBox/resources/icon.png"            />&nbsp;DOSBox/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="Fiddler/"           ><img width="24" height="24" alt="" src="Fiddler/resources/icon.png"           />&nbsp;Fiddler/</a><br/>
 <a href="Foxit/"             ><img width="24" height="24" alt="" src="Foxit/resources/icon.png"             />&nbsp;Foxit/</a><br/>
