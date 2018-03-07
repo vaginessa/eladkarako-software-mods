@@ -1,5 +1,5 @@
-<h1>mods</h1>
-<h2>a slightly modified version of softwares. usually just the manifest.</h2>
+<h1>mods - &nbsp; &nbsp; <a href="https://paypal.me/e1adkarak0" ok><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation" ok></a></h1>
+<h2>a slightly modified version of softwares. usually just the manifest, sometimes binaries/portable version too.</h2>
 
 <hr/>
 
@@ -29,6 +29,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
 <a href="F.lux/"             ><img width="24" height="24" alt="" src="F.lux/resources/icon.png"             />&nbsp;F.lux/</a><br/>
 <a href="CutePDF/"           ><img width="24" height="24" alt="" src="CutePDF/resources/icon.png"           />&nbsp;CutePDF/</a><br/>
+<a href="DependencyWalker/"  ><img width="24" height="24" alt="" src="DependencyWalker/resources/icon.png"  />&nbsp;DependencyWalker/</a>  <sub><em>(Depends)</em></sub><br/>
 <a href="DOSBox/"            ><img width="24" height="24" alt="" src="DOSBox/resources/icon.png"            />&nbsp;DOSBox/</a><br/>
 <a href="ffmpeg/"            ><img width="24" height="24" alt="" src="ffmpeg/resources/icon.png"            />&nbsp;ffmpeg/</a><br/>
 <a href="Fiddler/"           ><img width="24" height="24" alt="" src="Fiddler/resources/icon.png"           />&nbsp;Fiddler/</a><br/>
@@ -53,4 +54,5 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
 
 
-<!-- <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal Donation"></a> -->
+<br/>
+<a href="https://github.com/eladkarako/partial-download-github-repository">How To Download A Single Folder?</a>
