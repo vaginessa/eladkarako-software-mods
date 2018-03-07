@@ -1,4 +1,4 @@
-<h1><img src="resources/icon.png"/> Dependency Walker</h1>
+<h1><img src="resources/icon.png"/> Dependency Walker <sub>(<em>a.k.a <code>Depends.Exe</code></em>)</sub></h1>
 
 Normally you'll find it in your Visual-Studio folder,<br/>
 this one (<code>Dependency Walker 2.1.3790</code>) is from an older Microsoft Visual Studio 8 (2008), from within the sub-directory <code>\Common7\Tools\Bin\</code>,<br/>
