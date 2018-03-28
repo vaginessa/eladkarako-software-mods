@@ -62,6 +62,9 @@
 ::-------------------------------------------------------------------------------------------
 
 
+goto EXIT
+
+
 :ERR_CURL
   echo [ERROR] cURL reported an error while downloading the file.            1>&2
   echo Exit-Code: %EXIT_CODE%                                                1>&2
