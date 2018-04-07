@@ -53,6 +53,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="TrayMinimizer/"     ><img width="24" height="24" alt="" src="TrayMinimizer/resources/icon.png"     />&nbsp;TrayMinimizer/</a><br/>
 <a href="Unlocker/"          ><img width="24" height="24" alt="" src="Unlocker/resources/icon.png"          />&nbsp;Unlocker/</a><br/>
 <a href="WinDirState/"       ><img width="24" height="24" alt="" src="WinDirState/resources/icon.png"       />&nbsp;WinDirState/</a><br/>
+<a href="WinImage/"          ><img width="24" height="24" alt="" src="WinImage/resources/icon.png"          />&nbsp;WinImage/</a><br/>
 <a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
 
 
