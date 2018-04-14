@@ -315,5 +315,5 @@ Block network access using HOSTS:
 
 download while still having HOSTS-block those domains using cURL:
 <pre>
-curl --verbose --ipv4 --anyauth --insecure --location-trusted --url "https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe" --output "FiddlerSetup.exe" --resolve "telerik-fiddler.s3.amazonaws.com:443:151.101.0.64"
+curl --verbose --ipv4 --anyauth --insecure --location-trusted --url "https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe" --output "FiddlerSetup.exe" --resolve "telerik-fiddler.s3.amazonaws.com:443:52.216.160.107" --resolve "telerik-fiddler.s3.amazonaws.com:80:52.216.160.107"
 </pre>
