@@ -469,4 +469,20 @@ public static void OnBoot(){
 if you're using Fiddler ver2 (older then 4.1), 
 you should use <code>UI.</code> and not <code>FiddlerApplication.UI.</code>.
 </li>
+
+<li>
+Uninstalling should start with removing the certificate(s),
+then classic uninstall should do fine,
+in additional - use the following <code>uninstall_fiddler.reg</code> file to remove any sticky settings from the registry:
+
+<pre>
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Tracing\Fiddler_RASAPI32]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Tracing\Fiddler_RASMANCS]
+[-HKEY_LOCAL_MACHINE\Software\Telerik]
+[-HKEY_CURRENT_USER\Software\Telerik]
+</pre>
+</li>
+
 </ol>
