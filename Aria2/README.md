@@ -7,7 +7,11 @@ which will allow both manifest and versioninfo block to be written without corru
 
 I'm using the x86 32bit version since it makes no difference and allows wider os-compatibility.
 
-Under the <code>resources</code> folder you can find the useful batches of <code>aria2download.cmd</code> and <code>aria2list.cmd</code>.
+useful batch files:
+
+<code>aria2c.cmd</code> provides a very permissive-ssl connections (not verifying certificate etc...), 
+<code>aria2download.cmd</code> is the legacy name for <code>aria2c.cmd</code> and <code>aria2list.cmd</code> simply adds the "using of list" as the first argument.
+
 
 version:
 <pre>
@@ -102,7 +106,7 @@ Options:
  -d, --dir=DIR                The directory to store the downloaded file.
 
                               Possible Values: /path/to/directory
-                              Default: C:\www\mods\Aria2
+                              Default: D:\dos\parallel_aria2
                               Tags: #basic, #file
 
  -o, --out=FILE               The file name of the downloaded file. It is
@@ -735,8 +739,8 @@ Options:
                               For example, let's consider downloading 20MiB
                               file. If SIZE is 10M, aria2 can split file into 2
                               range [0-10MiB) and [10MiB-20MiB) and download it
-                              using 2 sources(if --split >= 2, of course).
-                              If SIZE is 15M, since 2*15M > 20MiB, aria2 does
+                              using 2 sources(if --split &gt;= 2, of course).
+                              If SIZE is 15M, since 2*15M &gt; 20MiB, aria2 does
                               not split file and download it using 1 source.
                               You can append K or M(1K = 1024, 1M = 1024K).
 
@@ -779,7 +783,7 @@ Options:
                               Tags: #advanced
 
  --retry-wait=SEC             Set the seconds to wait between retries. 
-                              With SEC > 0, aria2 will retry download when the
+                              With SEC &gt; 0, aria2 will retry download when the
                               HTTP server returns 503 response.
 
                               Possible Values: 0-600
@@ -1804,4 +1808,5 @@ Options:
                               Tags: #metalink
 
 Refer to man page for more information.
+
 </pre>
