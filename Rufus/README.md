@@ -30,7 +30,7 @@ uncompress 'rc-with-includes-master.zip' to a new folder and move 'aaaa.rc' and 
 along with 'rc.cmd'.
 open up the 'aaaa.rc' and the move the top-most-line (the neutural language part) keeping just RCDATA lines.
 
-open CMD in this folder, and run <code>upx -d *</code>
+open CMD in this folder, and run <code>upx -d * </code>
 allow the entire process to finish, then drag and drop the aaaa.rc over rc.cmd,
 it will compile it into aaaa.res file.
 
@@ -42,3 +42,17 @@ save the file and you should have it UPX free.
 
 you can use https://github.com/eladkarako/manifest
 to make it use a better manifest.
+
+<hr/>
+
+Or you can drag&amp;drop the exe of your choice over rcdata_unupx.cmd in the resources folder,
+it will uncompress the main exe,
+extract the resources using reshacker,
+uncompress them too,
+recompile them to res file, and create a new unupx file for you.
+
+you can then rename it to your-liking and possibly manifest-patch it with https://github.com/eladkarako/manifest yourself.
+
+<hr/>
+
+you can find 'rufus-2.18p.exe' (unmodified) under the resources folder. it is UPX compressed (plus all its resources).
