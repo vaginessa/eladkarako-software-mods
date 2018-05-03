@@ -1,4 +1,4 @@
-<h1><img src="resource/icon.png" />ProcessExplorer</h1>
+<h1><img src="resources/icon.png" />ProcessExplorer</h1>
 Older version (12.04) of Windows Sysinternals (Microsoft)'s Process Explorer,
 I like it since it has black background to the top CPU graph,
 also - in the newer versions the fonts looks weird...
