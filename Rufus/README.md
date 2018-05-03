@@ -1,4 +1,4 @@
-<h1><img src="resource/icon.png" />Rufus Portable</h1>
+<h1><img src="resources/icon.png" />Rufus Portable</h1>
 
 an UnUPX version of <code>Rufus 2.18p</code>,
 the author <a href="https://github.com/pbatard/rufus/issues/1120#issuecomment-385928930">didn't agree to made one</a>,
