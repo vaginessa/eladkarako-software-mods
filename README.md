@@ -47,6 +47,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="PosteRazor/"        ><img width="24" height="24" alt="" src="PosteRazor/resources/icon.png"        />&nbsp;PosteRazor/</a><br/>
 <a href="ProcessExplorer/"   ><img width="24" height="24" alt="" src="ProcessExplorer/resources/icon.png"   />&nbsp;ProcessExplorer/</a><br/>
 <a href="PuTTY/"             ><img width="24" height="24" alt="" src="PuTTY/resources/icon.png"             />&nbsp;PuTTY/</a><br/>
+<a href="ResourceHacker/"    ><img width="24" height="24" alt="" src="ResourceHacker/resources/icon.png"    />&nbsp;ResourceHacker/</a> <sub><em>(a.k.a reshack)</em></sub><br/>
 <a href="Rufus/"             ><img width="24" height="24" alt="" src="Rufus/resources/icon.png"             />&nbsp;Rufus/</a> <sub><em>(Rufus, to create USB drives - Portable + UnUPX)</em></sub><br/>
 <a href="Notepad%202.0/"     ><img width="24" height="24" alt="" src="Notepad%202.0/resources/icon.png"     />&nbsp;Notepad2.0/</a><br/>
 <a href="Notepad++/"         ><img width="24" height="24" alt="" src="Notepad++/resources/icon.png"         />&nbsp;Notepad++/</a><br/>
