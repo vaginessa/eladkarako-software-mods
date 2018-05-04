@@ -1,18 +1,25 @@
-<h1><img src="resources/icon.png"/> Paint.Net 4</h1>
+<h1><img src="resources/icon.png"/> Paint.Net</h1>
 
-Both exe and manifest files,<br/>
-<code>PaintDotNet.exe</code> can ran as any user but the rest must run as admin.<br/>
-when download make sure to copy the exe to your Paint.Net folder, overwrite existing ones.<br/>
-unblock all of the exes.
-mark all of the exe to run as admins (<code>PaintDotNet.exe</code> is optional).
+current version: <code>v4.0.21</code>,
+complete program (not just manifests).
+Run or install.
 
-<img src="resources/1.gif" /><br/>
-<img src="resources/2.gif" /><br/>
-<img src="resources/3.gif" /><br/>
-<br/>
+<hr/>
 
+How to extract it yourself:
+Get paint.net installation from: https://www.getpaint.net/download.html (currently: <code>paint.net.4.0.21.install.exe</code>), 
+download extended-7zip from: https://github.com/eladkarako/mods/tree/master/7z
+extract <code>paint.net.*******.install.exe</code> with 7zip to a folder,
+in the folder, use uniExtract 1.6 or <code>msiexec.exe /a archive.msi /qb /l log.txt TARGETDIR="C:...target-dir..."</code>,
+on <code>PaintDotNet_x86.msi</code> (or <code>PaintDotNet_x64.msi</code>).
+to get a flat installation folder, named <code>PaintDotNet_x86</code>,
+you can use it AS-IS, or run the newly created <code>PaintDotNet_x86/PaintDotNet_x86.msi</code> to install it.
+Note that it will not install any of MS' .Net-Framework files, so do it yourself (you have a web-installer in the folder that extracted in the 7zip stage above).
 
-expect a major speed boost!
+<hr/>
 
-this is not an entire working folder of paint.net,<br/>
-just the few moddified files...
+Both x86 and x64 versions available (both with patched manifest resources),
+choose either, extract anywhere and run <code>PaintDotNet.exe</code>,
+some registry values will be written by the program on the first time,
+so not "portable",
+alternatively extract it to a temp folder and run the MSI file to install it properly.
