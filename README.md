@@ -28,6 +28,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Babylon/"           ><img width="24" height="24" alt="" src="Babylon/resources/icon.png"           />&nbsp;Babylon/</a><br/>
 <a href="chromium/"          ><img width="24" height="24" alt="" src="chromium/resources/icon.png"          />&nbsp;chromium/</a><br/>
 <a href="Clear/"             ><img width="24" height="24" alt="" src="Clear/resources/icon.png"             />&nbsp;Clear/</a><br/>
+<a href="cURL/"              ><img width="24" height="24" alt="" src="cURL/resources/icon.png"              />&nbsp;cURL/</a><br/>
 <a href="F.lux/"             ><img width="24" height="24" alt="" src="F.lux/resources/icon.png"             />&nbsp;F.lux/</a><br/>
 <a href="CutePDF/"           ><img width="24" height="24" alt="" src="CutePDF/resources/icon.png"           />&nbsp;CutePDF/</a><br/>
 <a href="DependencyWalker/"  ><img width="24" height="24" alt="" src="DependencyWalker/resources/icon.png"  />&nbsp;DependencyWalker/</a>  <sub><em>(Depends)</em></sub><br/>
