@@ -39,6 +39,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="FreeRAMXPPro/"      ><img width="24" height="24" alt="" src="FreeRAMXPPro/resources/icon.png"      />&nbsp;FreeRAMXPPro/</a><br/>
 <a href="FSCapture/"         ><img width="24" height="24" alt="" src="FSCapture/resources/icon.png"         />&nbsp;FSCapture/</a><br/>
 <a href="GnuWin32/"          ><img width="24" height="24" alt="" src="GnuWin32/resources/icon.png"          />&nbsp;GnuWin32/</a><br/>
+<a href="HeimdallSuite/"     ><img width="24" height="24" alt="" src="HeimdallSuite/resources/icon.png"     />&nbsp;Heimdall Suite/</a> <sub><em>(and Zadig)</em></sub><br/>
 <a href="HPUSBFW/"           ><img width="24" height="24" alt="" src="HPUSBFW/resources/icon.png"           />&nbsp;HPUSBFW/</a> <sub><em>(HP USB Disk Storage Format Tool)</em></sub><br/>
 <a href="JavaRa/"            ><img width="24" height="24" alt="" src="JavaRa/resources/icon.png"            />&nbsp;JavaRa/</a><br/>
 <a href="KatMouse/"          ><img width="24" height="24" alt="" src="KatMouse/resources/icon.png"          />&nbsp;KatMouse/</a><br/>
