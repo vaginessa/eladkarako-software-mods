@@ -1058,7 +1058,7 @@ Options:
 
  -U, --user-agent=USER_AGENT  Set user agent for http(s) downloads.
 
-                              Default: aria2/1.33.1
+                              Default: aria2/1.34.0
                               Tags: #http
 
  --load-cookies=FILE          Load Cookies from FILE using the Firefox3 format
@@ -1349,12 +1349,12 @@ Options:
                               used. If less than 20 bytes are specified, random
                               byte data are added to make its length 20 bytes.
 
-                              Default: A2-1-33-1-
+                              Default: A2-1-34-0-
                               Tags: #bittorrent
 
  --peer-agent=PEER_AGENT  Set client reported during Extended torrent handshakes
 
-                              Default: aria2/1.33.1
+                              Default: aria2/1.34.0
                               Tags: #bittorrent
 
  --enable-peer-exchange[=true|false] Enable Peer Exchange extension.
