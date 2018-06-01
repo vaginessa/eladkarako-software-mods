@@ -18,7 +18,7 @@ you can place the entire folder on your flash-drive (or whatever..) and it will 
 
 
 <h3>2<sup>nd</sup> modification: proper manifest.</h3>
-every exe and dll in the CodeBlocks folder and MingW got the <a href="https://github.com/eladkarako/manifest>proper manifest</a>, 
+every exe and dll in the CodeBlocks folder and MingW got the <a href="https://github.com/eladkarako/manifest/">proper manifest</a>, 
 so everything should run fine on Windows-10 too.
 
 <hr/>
