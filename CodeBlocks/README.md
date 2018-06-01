@@ -7,11 +7,15 @@ running perfectly using its built-in MingW.
 
 CodeBlocks is "almost" portable,
 but even if you'll follow <a href="http://wiki.codeblocks.org/index.php/FAQ-Settings#Q:_Where_does_C::B.27s_configuration_file_store.3F_How_do_I_make_Code::Blocks_portable.3F">their instruction on how to make it "portable"</a>,
-(mostly just moving some INI files from <code>%AppData\CodeBlocks\</code> to the exe-folder) 
-<code>default.conf</code> and <code>codesnippets.ini</code> still include the path to MingW, <strong>hard-coded</strong>.
+which is mostly just moving some INI files from <code>&percnt;AppData&percnt;\CodeBlocks\</code> to the exe-folder. 
 
-<code>_start.cmd</code> updates them both with the current path,
-so you can place the entire folder on your flash-drive (or whatever..).
+<code>default.conf</code> and <code>codesnippets.ini</code> will still include the path to MingW, <strong>hard-coded</strong>.
+
+launching CodeBlocks with <code>_start.cmd</code>, will update them both, with the current path,
+so the local-WingW folder will work. This makes things slightly more portable..
+you can place the entire folder on your flash-drive (or whatever..) and it will work just fine.
+
+
 
 <h3>2<sup>nd</sup> modification: proper manifest.</h3>
 every exe and dll in the CodeBlocks folder and MingW got the <a href="https://github.com/eladkarako/manifest>proper manifest</a>, 
@@ -30,7 +34,10 @@ will be written under the <code>program/.</code> folder.
 
 <hr/>
 
-The only thing is that your setting will be overwriten each time with the one stored in the <code>default.conf.origin</code> file, 
+there is an issue where if you'll do any settings-change, you must take the <code>default.conf</code>, 
+and rename it to <code>default.conf.origin</code>, replacing the current-folder use back to <code>##HOME##</code>..
+
+clarifying again, for now, your setting will be overwriten each time with the one stored in the <code>default.conf.origin</code> file, 
 if you wish to keep them, you need to copy <code>default.conf</code> from the program folder, and renaming it to <code>default.conf.origin</code>, 
 then you should edit the line of the program-path that ends with <code>(...the.program.path....)/MingW</code> to <code>##HOME##/MingW</code>.
 
