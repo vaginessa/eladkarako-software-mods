@@ -7,6 +7,7 @@ Windows Registry Editor Version 5.00
 ;; -  and not just "\n" (LF).                                                 -
 ;; ----------------------------------------------------------------------------
 
+;; also delete C:\Users\Elad\AppData\Roaming\Locate32\
 
 ;this remove leftovers from portable or real-installations. 
 ;  you should remove those, but keep in mind to do this while Locate32 is not running (regular or portable-mode)
@@ -47,7 +48,7 @@ Windows Registry Editor Version 5.00
 "D:\\Software\\Locate32\\Updtdb32.exe"=-
 
 ;you can remove those too but you have to re-set each EXE to run as admin again.
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]
-"D:\\Software\\Locate32\\locate.exe"=-
-"D:\\Software\\Locate32\\locate32.exe"=-
-"D:\\Software\\Locate32\\Updtdb32.exe"=-
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]
+;"D:\\Software\\Locate32\\locate.exe"=-
+;"D:\\Software\\Locate32\\locate32.exe"=-
+;"D:\\Software\\Locate32\\Updtdb32.exe"=-
