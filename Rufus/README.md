@@ -1,6 +1,6 @@
 <h1><img src="resources/icon.png" />Rufus Portable</h1>
 
-an UnUPX version of <code>Rufus 2.18p</code>,
+an UnUPX version of <code>Rufus 2.18p</code> and <code>Rufus 3.0p</code>
 the author <a href="https://github.com/pbatard/rufus/issues/1120#issuecomment-385928930">didn't agree to made one</a>,
 so I've uncompressed both the main exe and the RCDATA (embedded) ones and re-integrated it with the main exe,
 plus the manifest.
@@ -11,6 +11,7 @@ Download the latest binary-file (unmodified) from here: http://rufus.akeo.ie/dow
 p is for portable.
 
 source-code is here: https://github.com/pbatard/rufus
+change-log is here: https://github.com/pbatard/rufus/blob/master/ChangeLog.txt
 
 <hr/>
 
@@ -55,4 +56,4 @@ you can then rename it to your-liking and possibly manifest-patch it with https:
 
 <hr/>
 
-you can find 'rufus-2.18p.exe' (unmodified) under the resources folder. it is UPX compressed (plus all its resources).
+you can find 'rufus-2.18p.exe' and 'rufus-3.0p' (unmodified) under the resources folder. it is UPX compressed (plus all its resources), and a fixed embedded (and external) manifest to work well with Windows 10.
