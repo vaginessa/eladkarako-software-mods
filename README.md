@@ -47,6 +47,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="Locate32/"          ><img width="24" height="24" alt="" src="Locate32/resources/icon.png"          />&nbsp;Locate32/</a><br/>
 <a href="Orbitdownloader/"   ><img width="24" height="24" alt="" src="Orbitdownloader/resources/icon.png"   />&nbsp;Orbitdownloader/</a><br/>
 <a href="PaintNet4/"         ><img width="24" height="24" alt="" src="PaintNet4/resources/icon.png"         />&nbsp;PaintNet4/</a><br/>
+<a href="PeerBlock/"         ><img width="24" height="24" alt="" src="PeerBlock/resources/icon.png"         />&nbsp;PeerBlock/</a><br/>
 <a href="PosteRazor/"        ><img width="24" height="24" alt="" src="PosteRazor/resources/icon.png"        />&nbsp;PosteRazor/</a><br/>
 <a href="ProcessExplorer/"   ><img width="24" height="24" alt="" src="ProcessExplorer/resources/icon.png"   />&nbsp;ProcessExplorer/</a><br/>
 <a href="PuTTY/"             ><img width="24" height="24" alt="" src="PuTTY/resources/icon.png"             />&nbsp;PuTTY/</a><br/>
@@ -62,6 +63,7 @@ or improve it, download <a href="https://github.com/eladkarako/manifest/">github
 <a href="WinImage/"          ><img width="24" height="24" alt="" src="WinImage/resources/icon.png"          />&nbsp;WinImage/</a><br/>
 <a href="WinKeyLegacy/"      ><img width="24" height="24" alt="" src="WinKeyLegacy/resources/icon.png"      />&nbsp;WinKey/</a> <sub><em>(WinKey-Legacy)</em></sub><br/>
 <a href="WinSCP/"            ><img width="24" height="24" alt="" src="WinSCP/resources/icon.png"            />&nbsp;WinSCP/</a><br/>
+<a href="YouTube-DL/"        ><img width="24" height="24" alt="" src="YouTube-DL/resources/icon.png"        />&nbsp;YouTube-DL/</a>  <sub><em>(with true-parallel tweaks)</em></sub><br/>
 
 
 <br/>
