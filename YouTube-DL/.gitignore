@@ -1,0 +1,14 @@
+
+*.mp4
+
+*.part
+
+*.ytdl
+
+*.mp3
+
+*.webm
+
+*.mkv
+
+__pycache__

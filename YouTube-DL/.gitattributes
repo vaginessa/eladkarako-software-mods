@@ -1,0 +1,12 @@
+
+*.md                            eol=crlf
+
+*.manifest              text    eol=crlf
+*.cmd                   text    eol=crlf
+
+#explicit binary content (reduced diff).
+*.exe                   binary
+*.png                   binary
+
+youtube-dl/youtube_dl/*.*  binary
+youtube-dl/*.py            binary
