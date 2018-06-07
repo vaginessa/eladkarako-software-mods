@@ -1,22 +1,56 @@
-the heimdall suite from: https://glassechidna.com.au/heimdall/ (<code>https://bitbucket.org/benjamin_dobell/heimdall/downloads/heimdall-suite-1.4.0-win32.zip</code>)
+Heimdall-Suite
+
+latest version 1.4.0 with with an updated zadig (2.3), everything was un<a href="https://en.wikipedia.org/wiki/UPX">UPX</a>-ed,
+modified with a proper Windows10 manifest, version-info and icon.
+
+<hr/>
+
+resources:
+download Heimdall-Suite: https://glassechidna.com.au/heimdall/
+direct url: https://bitbucket.org/benjamin_dobell/heimdall/downloads/heimdall-suite-1.4.0-win32.zip
+download zadig: https://zadig.akeo.ie/downloads/
+zadig changelog: https://github.com/pbatard/libwdi/blob/master/examples/zadig_README.creole
+
+<hr/>
+
+<code>_disable_online_updates.reg</code>
+
 with newer ZADIG (v2.3) and a modified icon and a fixed manifest.
 
 make sure to right click it and choose run as administrator.
 
 <br/>
 
-blocking online access using HOSTS:
-
+blocking online access: run <code>resources/zadig_disable_online_updates.reg</code> and 
+optionally add those values to your HOSTS file:
 <pre>
 #--------------------------blocking online access from haimdall and zadig
-0.0.0.0 zadig.akeo.ie
-0.0.0.0 libwdi-cps.akeo.ie
-0.0.0.0 libusb-win32.sourceforge.net
-0.0.0.0 libwdi.akeo.ie
-0.0.0.0 libusb.org
 0.0.0.0 glassechidna.com.au
+0.0.0.0 libusb-win32.sourceforge.net
+0.0.0.0 libusb.org
+0.0.0.0 libwdi-cps.akeo.ie
+0.0.0.0 libwdi.akeo.ie
 0.0.0.0 www.glassechidna.com.au
+0.0.0.0 zadig.akeo.ie
 </pre>
+
+<hr/>
+
+you can find all versions of zadig under the resources folder, 
+version <code>2.2</code> was the last to support Windows-XP, 
+the version <code>2.0</code> was the one that came, originally, with the Heimdall-suite. 
+All have unUPX-ed as well.
+
+<hr/>
+
+Make sure you'll run everything "as admin", 
+to make it easier you can edit the <code>resources/all_exe__run_as_admin.reg</code> to have 
+the correct path for all of the exe-files and then run it once, it is the same as going through 
+the properties/compatibility and selecting to always run as admin.
+
+
+
+
 
 <br/>
 
