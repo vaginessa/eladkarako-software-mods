@@ -13,7 +13,7 @@ set  ARGS=%ARGS% --extract-audio
 set  ARGS=%ARGS% --audio-quality "192k"
 
 ::---------------------------------------for YTDL: first argument is the URL (%1 is tested to have '//' in it to be a valid URL)
-set  ARGS="%YTDL%" %* %ARGS%
+set  ARGS="%YTDL%" %ARGS% %*
 
 title %*
 echo  %ARGS%
